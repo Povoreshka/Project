@@ -10,3 +10,9 @@ ul{
     color: slateblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+a{
+    color: rebeccapurple;
+}
+body{
+    background-color: wheat;
+}
