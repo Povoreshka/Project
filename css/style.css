@@ -6,3 +6,7 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: tomato;
 }
+.imgCat{
+    border: 2px solid red;
+    border-radius: 8px;
+}
