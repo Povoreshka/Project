@@ -6,7 +6,19 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: tomato;
 }
+
+ul{
+    color: slateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: rebeccapurple;
+}
+body{
+    background-color: wheat;
+}
 .imgCat{
     border: 2px solid red;
     border-radius: 8px;
+
 }
