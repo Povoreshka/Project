@@ -6,6 +6,7 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: tomato;
 }
+<<<<<<< HEAD
 ul{
     color: slateblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -15,4 +16,9 @@ a{
 }
 body{
     background-color: wheat;
+=======
+.imgCat{
+    border: 2px solid red;
+    border-radius: 8px;
+>>>>>>> feature2
 }
